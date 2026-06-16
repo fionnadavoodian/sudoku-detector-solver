@@ -15,7 +15,7 @@ This project builds a pipeline that:
 | Step | Where |
 |------|-------|
 | Grid detection & inference | Local (Mac, CPU) |
-| CNN training on MNIST | Google Colab (GPU) → download `models/digit_cnn.pt` |
+| CNN training on MNIST | Google Colab (GPU) → download `models/digit_cnn.pt` or cpu |  
 
 To train the model, open `notebook/sudoku_solver.ipynb` in Google Colab, run the training section, and download the saved weights into `models/`.
 
