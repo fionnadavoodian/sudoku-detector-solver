@@ -42,18 +42,15 @@ jupyter notebook notebook/sudoku_solver.ipynb
 ```
 sudoku-detector-solver/
 ├── data/
-│   ├── raw/          # Input Sudoku images
-│   └── processed/    # Extracted cell images (git-ignored)
+│   └── raw/          # Input Sudoku images
+│ 
 ├── models/
-│   └── digit_cnn.pt  # Trained CNN weights (download from Colab)
+│   └── digit_cnn.pt  # Trained CNN weights 
 ├── notebook/
 │   └── sudoku_solver.ipynb
 └── requirements.txt
 ```
 
-## Results
-
-_To be filled in after training._
 
 ## License
 
