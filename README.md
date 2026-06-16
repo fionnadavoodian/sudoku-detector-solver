@@ -57,7 +57,6 @@ Recursive backtracking — tries digits 1–9 in each empty cell, validates agai
 | PyTorch | CNN digit classifier |
 | NumPy | Array operations |
 | Matplotlib | Visualization |
-| Pillow | Image conversion |
 
 ## Setup
 

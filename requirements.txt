@@ -4,4 +4,3 @@ matplotlib
 jupyter
 torch
 torchvision
-pillow
